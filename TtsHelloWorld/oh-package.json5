@@ -1,0 +1,9 @@
+{
+  "name": "ttshelloworld",
+  "version": "1.0.0",
+  "description": "TTS HelloWorld Application",
+  "main": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
