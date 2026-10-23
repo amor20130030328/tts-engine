@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "TTS HelloWorld Module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "TTS HelloWorld Entry Ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "TTS HelloWorld"
+    },
+    {
+      "name": "app_name",
+      "value": "TTS HelloWorld"
+    }
+  ]
+}
