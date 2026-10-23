@@ -1,0 +1,32 @@
+# HarmonyOS / DevEco Studio
+.idea/
+.hvigor/
+build/
+node_modules/
+oh_modules/
+.preview/
+local.properties
+
+# Build outputs
+*.hap
+*.app
+*/build/
+/entry/build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.temp
+.gradle/
+
+# OH Package Lock
+oh-package-lock.json5
+
+# HAR packages (optional: 如果不想提交 HAR 包可以取消注释)
+# libs/*.har

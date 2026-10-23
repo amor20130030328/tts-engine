@@ -6,6 +6,6 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "tts_engine_china": "file:../tts_engine_china"
+    "tts_engine_china": "file:../libs/tts_engine_china.har"
   }
 }
